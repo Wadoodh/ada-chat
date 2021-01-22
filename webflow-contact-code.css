@@ -1,0 +1,22 @@
+#topBar {
+    display:none;
+}
+
+#message-container {
+    border: 1px solid rgb(232, 232, 235);
+}
+
+.sc-qYSYK.PVVMP {
+    height: 100%;
+}
+
+.MessageGroup__message {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#anId {text-align: center;}
+
+.this-is-a-test {
+    background: black;
+}
